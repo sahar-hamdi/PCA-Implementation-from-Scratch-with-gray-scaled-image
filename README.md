@@ -1,5 +1,8 @@
 # PCA-Implementation-from-Scratch-with-gray-scaled-image
 
+![OIP](https://github.com/sahar-hamdi/PCA-Implementation-from-Scratch-with-gray-scaled-image/assets/93557883/543e0bbf-fe2c-4aaf-86a3-13ce2aed214d)
+
+
 This Repo is to compress a grayscaled image using PCA 
 
 
